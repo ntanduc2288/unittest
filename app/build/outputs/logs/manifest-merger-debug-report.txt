@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:2:1-20:12
+ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
 		ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:3:5-40
 		INJECTED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/a
 		INJECTED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:5:5-18:19
+ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:5:5-19:19
 MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
 	android:label
@@ -28,19 +28,21 @@ MERGED from [com.android.support:support-v4:23.1.1] /Users/user/Documents/Androi
 	android:theme
 		ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:10:9-40
 activity#vinasource.com.circledraw.MainActivity
-ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:11:9-17:20
+ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:11:9-18:20
+	android:configChanges
+		ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:12:13-59
 	android:name
 		ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:11:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:12:13-16:29
+ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:13:17-69
+ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:13:25-66
+		ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:15:17-77
+ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:15:27-74
+		ADDED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
 INJECTED from /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/user/Documents/AndroidWorkSpace/TestWorkSpace/Unittest_Trung/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
